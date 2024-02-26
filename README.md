@@ -10,6 +10,7 @@
 
 
 # Getting Started with Marqo Cloud
+# I Can Sync files
 
 Welcome to the Marqo Cloud getting started guide. In this page we will go through how to get set up and running with Marqo Cloud starting from your first time login through to building your first application with Marqo.
 
